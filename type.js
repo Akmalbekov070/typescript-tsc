@@ -11,4 +11,5 @@ b = 'text';
 let c;
 // c = 12
 // c = 12
+let d = undefined;
 //# sourceMappingURL=type.js.map

@@ -13,3 +13,5 @@ b = 'text';
 let c: boolean;
 // c = 12
 // c = 12
+
+let d: undefined = undefined;
