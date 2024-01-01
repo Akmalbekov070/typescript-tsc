@@ -1,4 +1,4 @@
-"use strict";
+'use strict';
 // malumot turlari
 // let a = 12
 // a = "text"
@@ -12,4 +12,7 @@ let c;
 // c = 12
 // c = 12
 let d = undefined;
+const array = [];
+array.push(['anor', 'nok']);
+console.log(array);
 //# sourceMappingURL=type.js.map

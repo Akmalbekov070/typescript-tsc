@@ -15,3 +15,4 @@ let c: boolean;
 // c = 12
 
 let d: undefined = undefined;
+const array = ['olma', 'anor', 'nok'];
